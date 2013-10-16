@@ -4,5 +4,3 @@ deps
 *.beam
 *.plt
 erl_crash.dump
-*.erl~
-*.swp
